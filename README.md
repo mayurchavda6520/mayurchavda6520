@@ -5,3 +5,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,gitlab,html,css,postman,saas,sqlite,sublime,vscode,anaconda" />
 </p>
+🛠 fronted skills 
+<p>
+  <img src="https://skillicons.dev/icons?ihtml,css,bootstrap" />
+</p>
