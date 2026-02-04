@@ -7,5 +7,5 @@
 </p>
 🛠 fronted skills 
 <p>
-  <img src="https://skillicons.dev/icons?ihtml,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
