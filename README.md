@@ -3,5 +3,5 @@
 </p>
 🛠 Backend Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,gitlab" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,gitlab,html,css,postman,saas,sqlite,sublime,vscode,anaconda" />
 </p>
