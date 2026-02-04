@@ -10,5 +10,5 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 <p align="right">
-  <img src="https://octodex.github.com/images/codercat.jpg" width="180"/>
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="180"/>
 </p>
